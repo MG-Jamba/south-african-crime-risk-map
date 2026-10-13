@@ -1,0 +1,10 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Keep the dataset out of GitHub until its redistribution terms are verified
+sapacr-2005-2026-v1.5.csv
